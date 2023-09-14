@@ -102,33 +102,6 @@
 <a href = "mailto: davenaugler@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
 
 
-### My GitHub Stats
-
-<table>
-    <tr>
-        <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=davenaugler&row=3&column=4&no-bg=true"/>
-        </td>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=davenaugler&theme=tokyonight"/>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=davenaugler&count_private=true&show_icons=true&theme=tokyonight"/>
-        </td>
-<!--         <td> -->
-<!--             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadillehay&langs_count=10&layout=compact"/> -->
-<!--            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kadillehay&theme=tokyonight"/> -->
-<!--              )](https://github.com/anuraghazra/github-readme-stats) --> 
-<!--               &hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby,javascript"/> -->
-<!--            </td> -->
-       <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenaugler&theme=tokyonight&langs_count=10"/>
-        </td>
-    </tr>
-</table>
-
 <!--
 **davenaugler/davenaugler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
