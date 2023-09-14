@@ -2,17 +2,16 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="150"/>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/davenaugler/">
+  <a href="https://www.linkedin.com/in/davenaugler/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCi7QuGYuNdxO7-vK1Qdxmzw">
+  <a href="https://www.youtube.com/channel/UCi7QuGYuNdxO7-vK1Qdxmzw" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/DaveNaugler">
+  <a href="https://twitter.com/DaveNaugler" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
 <img src="https://komarev.com/ghpvc/?username=davenaugler&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
@@ -22,10 +21,6 @@
 </div>
 
 
-
-
-
-# Hi there, I'm Dave, nice to meet you! 👋
 
 - 🧠 2023 Learning Goals: Full Stack Java web apps, Spring Boot, and React skills.
 
