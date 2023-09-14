@@ -1,10 +1,16 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100"/>
+</div>
+
+
 # Hi there, I'm Dave, nice to meet you! 👋
 
 - 🧠 2023 Learning Goals: Full Stack Java web apps, Spring Boot, and React skills.
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100"/>
-</div>
+
+
+
+
 
 
 
