@@ -88,3 +88,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href = "mailto: davenaugler@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" target="_blank" height="50"></a>
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenaugler&theme=tokyonight&langs_count=10"/>
