@@ -84,4 +84,5 @@
 
 ### :link: Connect with me
 <a href="https://www.linkedin.com/in/davenaugler/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="50"/></a>
-<a href = "mailto: davenaugler@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href = "mailto: davenaugler@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" target="_blank" ></a>
