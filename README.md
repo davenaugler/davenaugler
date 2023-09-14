@@ -13,7 +13,9 @@
 
 </td><td valign="top">
 
+<span align="center">
 ### Backend
+</span>
 <div align="center">
 <img style="margin: 20px" src="/assets/Backend/java2.svg" alt="Java" height="60" />
 <img style="margin: 20px" src="/assets/Backend/icons8-spring-boot.svg" alt="Spring" height="50" />
