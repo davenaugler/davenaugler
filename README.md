@@ -37,9 +37,13 @@
 
 ### IDE's
 <div>
-<img style="margin: 20px" src="/assets/IDE/eclipse.png" alt="Eclipse IDE" height="60" />
+<img style="margin: 20px" src="/assets/IDE/eclipse.svg" alt="Eclipse IDE" height="60" />
 <img style="margin: 20px" src="/assets/IDE/intellij-idea.svg" alt="IntelliJ IDEA" height="60" />
 </div>
+
+</td><td valign="top">
+
+</table>
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/davenaugler/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
