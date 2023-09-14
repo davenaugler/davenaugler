@@ -66,6 +66,7 @@
 <h3 align="center">Tools</h3>
 <div align="center">
 <img style="margin: 20px" src="/assets/Tools/maven_white.svg" alt="Maven" height="45" />
+&nbsp;&nbsp;&nbsp;
  <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40"/></a>
 </div>
 
@@ -74,6 +75,7 @@
 <h3 align="center">IDE's</h3>
 <div align="center">
 <img style="margin: 20px" src="/assets/IDE/eclipse.svg" alt="Eclipse IDE" height="50" />
+&nbsp;&nbsp;&nbsp;
 <img style="margin: 20px" src="/assets/IDE/intellij-idea.svg" alt="IntelliJ IDEA" height="50" />
 </div>
 
