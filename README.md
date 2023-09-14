@@ -23,7 +23,7 @@
 
 ### Database
 <div>
-<img style="margin: 20px" src="/assets/Database/mysql_white.svg" alt="MySQL" height="80" />
+<img style="margin: 20px" src="/assets/Database/icons8-mysql-96.png" alt="MySQL" height="60" />
 </div>
 
 </td><td valign="top">
