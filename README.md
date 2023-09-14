@@ -38,6 +38,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+<div align="center">
 <table style="background-color: #27272a" width="100%" border="1"><tr><td valign="top">
 
 <h3 align="center">Frontend</h3>
@@ -79,6 +80,7 @@
 </td></tr>
 
 </table>
+</div>
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/davenaugler/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="50"/></a>
@@ -88,4 +90,3 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davenaugler&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davenaugler)](https://github.com/anuraghazra/github-readme-stats)
