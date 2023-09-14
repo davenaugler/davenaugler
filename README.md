@@ -37,7 +37,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+<h2>:hammer_and_wrench: Languages and Tools :</h2>
 <table style="background-color: #27272a" width="100%" border="1"><tr><td valign="top">
 
 <h3 align="center">Frontend</h3>
@@ -84,16 +84,11 @@
 </table>
 
 ---
-### :fire: My Stats :
+<h2>:fire: My Stats :</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenaugler&theme=tokyonight&langs_count=5"/>
 
-
-
-
-
-
 ---
-### :link: Connect with me
+<h2>:link: Connect with me</h2>
 <div >
 <a href="https://www.linkedin.com/in/davenaugler/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="50"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
