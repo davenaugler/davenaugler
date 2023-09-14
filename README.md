@@ -11,19 +11,35 @@
 <!-- <img style="margin: 20px" src="/assets/Frontend/react_horizontal.svg" alt="React" height="60" /> -->
 </div>
 
+</td><td valign="top">
+
 ### Backend
+<div>
 <img style="margin: 20px" src="/assets/Backend/java.svg" alt="Java" height="60" />
 <img style="margin: 20px" src="/assets/Backend/spring.svg" alt="Spring" height="60" />
+</div>
+
+</td><td valign="top">
 
 ### Database
+<div>
 <img style="margin: 20px" src="/assets/Database/mysql-horizontal.svg" alt="MySQL" height="60" />
+</div>
+
+</td><td valign="top">
 
 ### Tools
+<div>
 <img style="margin: 20px" src="/assets/Tools/maven.svg" alt="Maven" height="60" />
+</div>
+
+</td><td valign="top">
 
 ### IDE's
+<div>
 <img style="margin: 20px" src="/assets/IDE/eclipse.png" alt="Eclipse IDE" height="60" />
 <img style="margin: 20px" src="/assets/IDE/intellij-idea.svg" alt="IntelliJ IDEA" height="60" />
+</div>
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/davenaugler/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
