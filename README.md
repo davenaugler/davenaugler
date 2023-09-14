@@ -30,7 +30,7 @@
 
 ### Tools
 <div>
-<img style="margin: 20px" src="/assets/Tools/maven.svg" alt="Maven" height="50" />
+<img style="margin: 20px" src="/assets/Tools/maven_white.svg" alt="Maven" height="50" />
 </div>
 
 </td><td valign="top">
