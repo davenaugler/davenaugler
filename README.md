@@ -41,7 +41,7 @@
 <img style="margin: 20px" src="/assets/IDE/intellij-idea.svg" alt="IntelliJ IDEA" height="50" />
 </div>
 
-</td><td valign="top">
+</td></tr>
 
 </table>
 
