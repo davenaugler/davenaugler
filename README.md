@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="150"/>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/davenaugler/" target="_blank">
+    <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/davenaugler/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCi7QuGYuNdxO7-vK1Qdxmzw" target="_blank">
