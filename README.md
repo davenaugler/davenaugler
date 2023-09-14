@@ -4,8 +4,7 @@
 
 <table style="background-color: #27272a" width="100%" border="1"><tr><td valign="top">
 
-### Frontend
-
+<h3 align="center">Frontend</h3>
 <div align="center">  
 <img style="margin: 20px" src="/assets/Frontend/javascript.svg" alt="JavaScript" height="50" />
 <!-- <img style="margin: 20px" src="/assets/Frontend/react_horizontal.svg" alt="React" height="60" /> -->
@@ -13,8 +12,7 @@
 
 </td><td valign="top">
 
-<h3><span align="center">Backend</span></h3>
-</span>
+<h3 align="center">Backend</h3>
 <div align="center">
 <img style="margin: 20px" src="/assets/Backend/java2.svg" alt="Java" height="60" />
 <img style="margin: 20px" src="/assets/Backend/icons8-spring-boot.svg" alt="Spring" height="50" />
@@ -22,7 +20,7 @@
 
 </td><td valign="top">
 
-### Database
+<h3 align="center">Database</h3>
 <div align="center">
 <img style="margin: 20px" src="/assets/Database/mysql_white_data.svg" alt="MySQL" height="60" />
 </div>
@@ -36,7 +34,7 @@
 
 </td><td valign="top">
 
-### IDE's
+<h3 align="center">IDE's</h3>
 <div align="center">
 <img style="margin: 20px" src="/assets/IDE/eclipse.svg" alt="Eclipse IDE" height="50" />
 <img style="margin: 20px" src="/assets/IDE/intellij-idea.svg" alt="IntelliJ IDEA" height="50" />
