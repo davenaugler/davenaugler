@@ -38,7 +38,6 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div align="center">
 <table style="background-color: #27272a" width="100%" border="1"><tr><td valign="top">
 
 <h3 align="center">Frontend</h3>
@@ -80,7 +79,6 @@
 </td></tr>
 
 </table>
-</div>
 
 ---
 
