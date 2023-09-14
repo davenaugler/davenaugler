@@ -5,6 +5,9 @@
     <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/davenaugler/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+     <a onclick="window.open(this.href,'_blank');return false;" href="https://www.linkedin.com/in/davenaugler/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <a href="https://www.youtube.com/channel/UCi7QuGYuNdxO7-vK1Qdxmzw" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -20,6 +23,8 @@
 
 </div>
 
+
+<!-- <a onclick="window.open(this.href,'_blank');return false;" href="https://www.linkedin.com/in/davenaugler/">Some Other Site</a> -->
 
 
 - 🧠 2023 Learning Goals: Full Stack Java web apps, Spring Boot, and React skills.
