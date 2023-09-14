@@ -13,8 +13,7 @@
 
 </td><td valign="top">
 
-<span align="center">
-### Backend
+<h3><span align="center">Backend</span></h3>
 </span>
 <div align="center">
 <img style="margin: 20px" src="/assets/Backend/java2.svg" alt="Java" height="60" />
@@ -30,7 +29,7 @@
 
 </td><td valign="top">
 
-### Tools
+<h3><span align="center">Tools</span></h3>
 <div align="center">
 <img style="margin: 20px" src="/assets/Tools/maven_white.svg" alt="Maven" height="45" />
 </div>
