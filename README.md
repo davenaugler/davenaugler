@@ -15,7 +15,7 @@
 
 ### Backend
 <div>
-<img style="margin: 20px" src="/assets/Backend/java2.svg" alt="Java" height="50" />
+<img style="margin: 20px" src="/assets/Backend/java2.svg" alt="Java" height="60" />
 <img style="margin: 20px" src="/assets/Backend/icons8-spring-boot.svg" alt="Spring" height="50" />
 </div>
 
@@ -23,14 +23,14 @@
 
 ### Database
 <div>
-<img style="margin: 20px" src="/assets/Database/icons8-mysql-96.png" alt="MySQL" height="60" />
+<img style="margin: 20px" src="/assets/Database/mysql_white.svg" alt="MySQL" height="60" />
 </div>
 
 </td><td valign="top">
 
 ### Tools
 <div>
-<img style="margin: 20px" src="/assets/Tools/maven_white.svg" alt="Maven" height="50" />
+<img style="margin: 20px" src="/assets/Tools/maven_white.svg" alt="Maven" height="45" />
 </div>
 
 </td><td valign="top">
