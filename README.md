@@ -66,6 +66,7 @@
 <h3 align="center">Tools</h3>
 <div align="center">
 <img style="margin: 20px" src="/assets/Tools/maven_white.svg" alt="Maven" height="45" />
+ <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40"/></a>
 </div>
 
 </td><td valign="top">
