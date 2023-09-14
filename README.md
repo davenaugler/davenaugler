@@ -6,13 +6,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge" height="50"/>
   </a>
   <a href="https://www.youtube.com/channel/UCi7QuGYuNdxO7-vK1Qdxmzw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" height="50"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" height="40"/>
   </a>
   <a href="https://twitter.com/DaveNaugler">
     <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Badge" height="50"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=davenaugler&style=flat-square&color=blue" alt="Profile views" height="50"/>
+<img src="https://komarev.com/ghpvc/?username=davenaugler&style=flat-square&color=blue" alt="Profile views" height="20"/>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
