@@ -16,7 +16,7 @@
 ### Backend
 <div>
 <img style="margin: 20px" src="/assets/Backend/java.svg" alt="Java" height="50" />
-<img style="margin: 20px" src="/assets/Backend/spring.svg" alt="Spring" height="50" />
+<img style="margin: 20px" src="/assets/Backend/icons8-spring-boot.svg" alt="Spring" height="50" />
 </div>
 
 </td><td valign="top">
