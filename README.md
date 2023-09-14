@@ -15,7 +15,7 @@
 
 ### Backend
 <div>
-<img style="margin: 20px" src="/assets/Backend/java.svg" alt="Java" height="50" />
+<img style="margin: 20px" src="/assets/Backend/java2.svg" alt="Java" height="50" />
 <img style="margin: 20px" src="/assets/Backend/icons8-spring-boot.svg" alt="Spring" height="50" />
 </div>
 
@@ -23,7 +23,7 @@
 
 ### Database
 <div>
-<img style="margin: 20px" src="/assets/Database/mysql_white.svg" alt="MySQL" height="70" />
+<img style="margin: 20px" src="/assets/Database/mysql_white.svg" alt="MySQL" height="80" />
 </div>
 
 </td><td valign="top">
