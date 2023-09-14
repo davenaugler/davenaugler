@@ -8,6 +8,7 @@
 
 <div>  
 <img style="margin: 20px" src="/assets/Frontend/javascript.svg" alt="JavaScript" height="50" />
+<img style="margin: 20px" src="/assets/Frontend/icons8-javascript-96.svg" alt="JavaScript" height="50" />
 <img style="margin: 20px" src="/assets/Frontend/icons8-javascript-96.svg" alt="JavaScript" height="96" />
 <!-- <img style="margin: 20px" src="/assets/Frontend/react.svg" alt="React" height="50" /> -->
 </div>
