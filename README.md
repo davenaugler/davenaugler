@@ -26,7 +26,7 @@
 </div>
 
 ---
-<h2>&nbsp;&nbsp;:man_technologist: About Me :</h2>
+<h2>:man_technologist: &nbsp;&nbsp; About Me :</h2>
 - 🧠 2023 Learning Goals: Full Stack Java web apps, Spring Boot, and React skills.
 
 - :telescope: I'm currently working on a Full Stack Java application 
@@ -37,7 +37,7 @@
 
 ---
 
-<h2>&nbsp;&nbsp;:hammer_and_wrench: Languages and Tools :</h2>
+<h2>:hammer_and_wrench: &nbsp;&nbsp; Languages and Tools :</h2>
 <table style="background-color: #27272a" width="100%" border="1"><tr><td valign="top">
 
 <h3 align="center">Frontend</h3>
@@ -84,11 +84,11 @@
 </table>
 
 ---
-<h2>&nbsp;&nbsp;:fire: My Stats :</h2>
+<h2>:fire: &nbsp;&nbsp; My Stats :</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenaugler&theme=tokyonight&langs_count=5"/>
 
 ---
-<h2>&nbsp;&nbsp;:link: Connect with me</h2>
+<h2>:link: &nbsp;&nbsp; Connect with me</h2>
 <div >
 <a href="https://www.linkedin.com/in/davenaugler/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="50"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
