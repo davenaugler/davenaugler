@@ -1,6 +1,6 @@
-### Hi there, I'm Dave, nice to meet you! 👋
+## Hi there, I'm Dave, nice to meet you! 👋
 
-- 🧠 2023 Learning Goals: Working on Full Stack Java web apps, Spring Boot, and React skills.
+- 🧠 2023 Learning Goals: Full Stack Java web apps, Spring Boot, and React skills.
 
 <table style="background-color: #27272a" width="100%" border="1"><tr><td valign="top">
 
