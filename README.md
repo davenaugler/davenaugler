@@ -22,7 +22,7 @@
 </td><td valign="top">
 
 ### Database
-<div>
+<div align="center" >
 <img style="margin: 20px" src="/assets/Database/mysql_white_data.svg" alt="MySQL" height="60" />
 </div>
 
