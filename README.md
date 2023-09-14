@@ -29,7 +29,7 @@
 
 </td><td valign="top">
 
-<h3><span align="center">Tools</span></h3>
+<h3 align="center">Tools</h3>
 <div align="center">
 <img style="margin: 20px" src="/assets/Tools/maven_white.svg" alt="Maven" height="45" />
 </div>
