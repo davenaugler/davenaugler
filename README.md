@@ -2,7 +2,7 @@
 
 - 🧠 2023 Learning Goals: Working on Full Stack Java web apps, Spring Boot, and React skills.
 
-<table width="100%" border="1"><tr><td valign="top">
+<table style="background-color: #27272a" width="100%" border="1"><tr><td valign="top">
 
 ### Frontend
 
