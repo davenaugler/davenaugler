@@ -4,11 +4,11 @@
 
 <table style="background-color: #27272a" width="100%" border="1"><tr>
 <tr>
-<th>### Frontend</th>
-<th>### Backend</th>
-<th>### Databse</th>
-<th>### IDE</th>
-<th>### Tools</th>
+<th style="text-align: center">### Frontend</th>
+<th style="text-align: center">### Backend</th>
+<th style="text-align: center">### Databse</th>
+<th style="text-align: center">### IDE</th>
+<th style="text-align: center">### Tools</th>
 </tr>
 
 <td>
