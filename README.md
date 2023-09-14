@@ -27,28 +27,13 @@
 
 ---
 ### :man_technologist: About Me :
-I am a Full Stack Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- 🧠 2023 Learning Goals: Full Stack Java web apps, Spring Boot, and React skills.
 
 - :telescope: I'm currently working on a Full Stack Java application 
 
 - :seedling: I'm currently learning Java and React
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davenaugler/)
-
-
-
-- 🧠 2023 Learning Goals: Full Stack Java web apps, Spring Boot, and React skills.
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-davenaugler-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davenaugler/)
 
 
 
