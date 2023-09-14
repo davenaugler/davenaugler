@@ -2,13 +2,19 @@
 
 - 🧠 2023 Learning Goals: Working on Full Stack Java web apps, Spring Boot, and React skills.
 
-<table style="background-color: #27272a" width="100%" border="1"><tr><td valign="top">
+<table style="background-color: #27272a" width="100%" border="1"><tr>
+<tr>
+<th>### Frontend</th>
+<th>### Backend</th>
+<th>### Databse</th>
+<th>### IDE</th>
+<th>### Tools</th>
+</tr>
 
-### Frontend
-
+<td>
 <div>  
-<img style="margin: 20px" src="/assets/Frontend/javascript.svg" alt="JavaScript" height="60" />
-<!-- <img style="margin: 20px" src="/assets/Frontend/react_horizontal.svg" alt="React" height="60" /> -->
+<img style="margin: 20px" src="/assets/Frontend/javascript.svg" alt="JavaScript" height="50" />
+<!-- <img style="margin: 20px" src="/assets/Frontend/react_horizontal.svg" alt="React" height="50" /> -->
 </div>
 
 </td><td valign="top">
