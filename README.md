@@ -83,8 +83,8 @@
 ---
 
 ### :link: Connect with me
-<div>
-<a href="https://www.linkedin.com/in/davenaugler/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="50"/></a>
+<div >
+<a href="https://www.linkedin.com/in/davenaugler/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="50"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href = "mailto: davenaugler@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" target="_blank" height="50"></a>
 </div>
