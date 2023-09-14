@@ -2,6 +2,28 @@
 
 - 🧠 2023 Learning Goals: Full Stack Java web apps, Spring Boot, and React skills.
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100"/>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <table style="background-color: #27272a" width="100%" border="1"><tr><td valign="top">
 
 <h3 align="center">Frontend</h3>
