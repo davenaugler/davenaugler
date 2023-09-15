@@ -32,11 +32,11 @@
 - :telescope: &nbsp; I'm currently working on a Full Stack Java application 
 
 - :seedling: &nbsp; I'm currently learning Java and React
-<div height="30" align="center">
-- :mailbox:How to reach me: &nbsp; <span height="30" align="center">[![Linkedin Badge](https://img.shields.io/badge/-davenaugler-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davenaugler/)</span>
-</div>
 
-- :mailbox:How to reach me: &nbsp; <a href="https://www.linkedin.com/in/davenaugler/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="15"/></a>
+- :mailbox: &nbsp; How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-davenaugler-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davenaugler/)
+
+
+
 
 ---
 
