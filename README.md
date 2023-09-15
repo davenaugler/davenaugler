@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="/assets/images/dave.png" width="200"/>
+  <img src="/assets/images/dave.png" width="150"/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/davenaugler/">
