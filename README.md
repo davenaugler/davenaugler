@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="150"/>
+  <img src="/assets/images/dave.png" width="150"/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/davenaugler/">
