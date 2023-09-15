@@ -43,7 +43,7 @@
 <h2>:hammer_and_wrench: &nbsp; Languages and Tools :</h2>
 <table style="background-color: #27272a" width="100%" border="1"><tr><td valign="top">
 
-<h3 align="center">Frontend</h3>
+<h3 align="center" style="color:#F3F5F9">Frontend</h3>
 <div align="center">  
 <img style="margin: 20px" src="/assets/Frontend/javascript.svg" alt="JavaScript" height="50" />
 <!-- <img style="margin: 20px" src="/assets/Frontend/react_horizontal.svg" alt="React" height="60" /> -->
