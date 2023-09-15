@@ -29,11 +29,13 @@
 <h2>:man_technologist: &nbsp; About Me :</h2>
 - 🧠 2023 Learning Goals: Full Stack Java web apps, Spring Boot, and React skills.
 
-- :telescope: I'm currently working on a Full Stack Java application 
+- :telescope: &nbsp; I'm currently working on a Full Stack Java application 
 
-- :seedling: I'm currently learning Java and React
+- :seedling: &nbsp; I'm currently learning Java and React
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-davenaugler-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davenaugler/)
+- :mailbox:How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-davenaugler-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davenaugler/)
+
+- :mailbox:How to reach me: &nbsp; <a href="https://www.linkedin.com/in/davenaugler/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="15"/></a>
 
 ---
 
