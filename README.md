@@ -33,7 +33,7 @@
 
 - :seedling: &nbsp; I'm currently learning Java and React
 
-- :mailbox:How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-davenaugler-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davenaugler/)
+- :mailbox:How to reach me: &nbsp; <span height="30" align="center">[![Linkedin Badge](https://img.shields.io/badge/-davenaugler-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davenaugler/)</span>
 
 - :mailbox:How to reach me: &nbsp; <a href="https://www.linkedin.com/in/davenaugler/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="15"/></a>
 
