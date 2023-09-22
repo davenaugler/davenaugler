@@ -91,7 +91,7 @@ d<div id="header" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenaugler&theme=tokyonight&langs_count=10"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenaugler&theme=tokyonight&langs_count=5"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenaugler">
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?davenaugler" frameborder="0"></iframe>
+<img src="https://ionicabizau.github.io/github-profile-languages/api.html?davenaugler" width="600" height="600" frameborder="0">
 
 ---
 <h2>:link: &nbsp; Connect with me</h2>
