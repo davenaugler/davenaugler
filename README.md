@@ -87,8 +87,9 @@
 </table>
 
 ---
-<h2>:fire: &nbsp; My Stats :</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenaugler&theme=tokyonight&langs_count=5"/>
+<h2>:fire: &nbsp; My Stats :</h2> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenaugler&theme=tokyonight&langs_count=10"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenaugler&theme=tokyonight&langs_count=5"/> -->
 
 ---
 <h2>:link: &nbsp; Connect with me</h2>
