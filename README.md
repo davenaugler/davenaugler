@@ -1,4 +1,4 @@
-d<div id="header" align="center">
+<div id="header" align="center">
   <img src="/assets/images/dave.png" width="150"/>
 
 <div id="badges">
