@@ -88,9 +88,7 @@ d<div id="header" align="center">
 
 ---
 <h2>:fire: &nbsp; My Stats :</h2> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenaugler&theme=tokyonight&langs_count=10"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenaugler&langs_count=8">
+<p>Coming soon</p>
 
 ---
 <h2>:link: &nbsp; Connect with me</h2>
