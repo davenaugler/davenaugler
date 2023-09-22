@@ -92,6 +92,9 @@ d<div id="header" align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenaugler&theme=tokyonight&langs_count=5"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenaugler">
 <img src="https://ionicabizau.github.io/github-profile-languages/api.html?davenaugler" width="600" height="600" frameborder="0">
+<img src="https://camo.githubusercontent.com/43f1b5815bd1832ae1efc473a1712022c6c08bcc39e791c9144c1b0d5773d2cc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d726a6f79646970" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenaugler" style="max-width: 100%;">
+
+
 
 ---
 <h2>:link: &nbsp; Connect with me</h2>
