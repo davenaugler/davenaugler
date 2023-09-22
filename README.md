@@ -1,4 +1,4 @@
-<div id="header" align="center">
+d<div id="header" align="center">
   <img src="/assets/images/dave.png" width="150"/>
 
 <div id="badges">
@@ -91,7 +91,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenaugler&theme=tokyonight&langs_count=10"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenaugler&theme=tokyonight&langs_count=5"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenaugler">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davenaugler)](https://github.com/davenaugler/github-readme-stats)
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?davenaugler" frameborder="0"></iframe>
 
 ---
 <h2>:link: &nbsp; Connect with me</h2>
