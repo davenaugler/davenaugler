@@ -12,9 +12,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Badge" height="30"/>
   </a>
 </div>
-<!-- <img src="https://komarev.com/ghpvc/?username=davenaugler&style=flat-square&color=blue" alt="Profile views" height="25"/> -->
 <h1>
-  ...because I'm curious  &nbsp; :rocket:
+  ...because I'm curious&nbsp;:rocket:
 </h1>
 
 </div>
@@ -30,7 +29,7 @@
 <h2>:man_technologist: &nbsp; About Me :</h2>
 - 🧠 2023 Learning Goals: Full Stack Java web apps, Spring Boot, and React skills.
 
-- :telescope: &nbsp; I'm currently working on a Full Stack Java application 
+- :telescope: &nbsp; Collaborating on a Full Stack Java app to assist on students finding full time dev employment
 
 - :seedling: &nbsp; I'm currently learning Java and React
 
