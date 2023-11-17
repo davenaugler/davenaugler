@@ -31,7 +31,7 @@
 
 - :telescope: &nbsp; Collaborating on a Full Stack Java application to help students secure full-time developer roles
 
-- :seedling: &nbsp; I'm currently learning Java and React
+- :seedling: &nbsp; I'm currently learning Full Stack Java and React
 
 - :mailbox: &nbsp; How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-davenaugler-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davenaugler/)
 
