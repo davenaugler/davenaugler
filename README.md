@@ -18,12 +18,17 @@
 
 </div>
 
-<!-- This is a new comment -->
+---
+<h2>:man_technologist: &nbsp; Favorite Tools :</h2>
+<div>
+  <a href="[https://twitter.com/DaveNaugler](https://www.warp.dev/b)">
+    <img src="https://assets-global.website-files.com/64b6f3636f598299028e8577/64b6fff736b756d139bd9f99_Logo%20-%20Warp.svg" alt="Warp logo" height="30"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ logo" height="30"/>
+  </a>
+</div>
 
-<!-- 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div> -->
 
 ---
 <h2>:man_technologist: &nbsp; About Me :</h2>
