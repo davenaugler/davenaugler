@@ -92,8 +92,12 @@
 </table>
 
 ---
-<h2>:fire: &nbsp; My Stats :</h2> 
-<p>Coming soon</p>
+<h2>:fire: &nbsp; Favorite Daily Tools :</h2> 
+<p>
+  <img src="/assets/DailyTools/Warp_logo.svg" alt="Warp logo" height="30"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img style="margin-left: 20px" src="/assets/DailyTools/InkDrop_logo.png" alt="InkDrop logo" height="40"/>
+</p>
 
 ---
 <h2>:link: &nbsp; Connect with me</h2>
