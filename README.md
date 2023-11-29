@@ -18,17 +18,6 @@
 
 </div>
 
----
-<h2>:man_technologist: &nbsp; Favorite Tools :</h2>
-<div>
-  <a href="[https://twitter.com/DaveNaugler](https://www.warp.dev/b)">
-    <img src="https://assets-global.website-files.com/64b6f3636f598299028e8577/64b6fff736b756d139bd9f99_Logo%20-%20Warp.svg" alt="Warp logo" height="30"/>
-  </a>
-  <a href="https://www.jetbrains.com/idea/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ logo" height="30"/>
-  </a>
-</div>
-
 
 ---
 <h2>:man_technologist: &nbsp; About Me :</h2>
@@ -94,9 +83,13 @@
 ---
 <h2>:fire: &nbsp; Favorite Daily Tools :</h2> 
 <p>
+<a href="https://www.warp.dev/b">
   <img src="/assets/DailyTools/Warp_logo.svg" alt="Warp logo" height="30"/>
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.inkdrop.app/" >
   <img style="margin-left: 20px" src="/assets/DailyTools/InkDrop_logo.png" alt="InkDrop logo" height="40"/>
+  </a>
 </p>
 
 ---
