@@ -20,7 +20,7 @@
 
 
 ---
-<h2>:man_technologist: &nbsp; About Me :</h2>
+<h2>👨‍💻: &nbsp; About Me :</h2>
 - 🧠 2023 Learning Goals: Full Stack Java web apps, Spring Boot, and React skills.
 
 - :telescope: &nbsp; Collaborating on a Full Stack Java application to help students secure full-time developer roles
