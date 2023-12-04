@@ -20,7 +20,7 @@
 
 
 ---
-<h2>👨‍💻: &nbsp; About Me :</h2>
+<h2>About Me</h2>
 - 🧠 2023 Learning Goals: Full Stack Java web apps, Spring Boot, and React skills.
 
 - :telescope: &nbsp; Collaborating on a Full Stack Java application to help students secure full-time developer roles
@@ -34,7 +34,7 @@
 
 ---
 
-<h2>:hammer_and_wrench: &nbsp; Languages and Tools :</h2>
+<h2>Languages and Tools</h2>
 <table style="background-color: #27272a" width="100%" border="1"><tr><td valign="top">
 
 <h3 align="center" style="color:red;">Frontend</h3>
@@ -81,7 +81,7 @@
 </table>
 
 ---
-<h2>:fire: &nbsp; Favorite Daily Tools :</h2> 
+<h2>Daily Tools</h2> 
 <p>
 <a href="https://www.warp.dev/b">
   <img src="/assets/DailyTools/Warp_logo.svg" alt="Warp logo" height="30"/>
@@ -93,7 +93,7 @@
 </p>
 
 ---
-<h2>:link: &nbsp; Connect with me</h2>
+<h2>Connect</h2>
 <div >
 <a href="https://www.linkedin.com/in/davenaugler/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="50"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
