@@ -80,7 +80,7 @@
 </table>
 
 ---
-<!-- Daily Tools</h2> -->
+<!-- <h2>Daily Tools</h2> -->
 <h2>My Toolbox</h2> 
 <p>
 <a href="https://www.warp.dev/b">
@@ -93,12 +93,19 @@
 </p>
 
 ---
-<!-- Connect</h2> -->
+<!-- <h2>Connect</h2> -->
 <h2>Let's Chat</h2>
 <div >
 <a href="https://www.linkedin.com/in/davenaugler/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="50"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href = "mailto: davenaugler@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" target="_blank" height="50"></a>
 </div>
+
+<!-- <h2>Project Portfolio</h2> -->
+<!-- <h2>Blogs & Insight</h2> -->
+<!-- <h2>Achievements & Certifications</h2> -->
+<!-- <h2>Learning & Growth</h2> -->
+<!-- <h2>Endorsements</h2> -->
+<!--<h2>Fun Facts</h2> -->
 
 
