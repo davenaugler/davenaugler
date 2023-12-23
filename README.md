@@ -13,28 +13,27 @@
   </a>
 </div>
 <h1>
-  ...because I'm curious&nbsp;:rocket:
+  Develop from a position of service and curiosity
 </h1>
 
 </div>
 
 
 ---
-<h2>About Me</h2>
-- 🧠 2023 Learning Goals: Full Stack Java web apps, Spring Boot, and React skills.
+<!-- <h2>About Me</h2> -->
+<h2>Journey in Tech</h2>
+- 🧠 2024 Learning Goals: Full Stack Java web apps, Spring Boot, and React skills.
 
-- :telescope: &nbsp; Collaborating on a Full Stack Java application to help students secure full-time developer roles
+- :telescope: &nbsp; Collaborating on a web application designed to help Coding Bootcamp students secure professional full-time employment
 
-- :seedling: &nbsp; I'm currently learning Full Stack Java and React
+- :seedling: &nbsp; Exploring Full Stack Java and React
 
 - :mailbox: &nbsp; How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-davenaugler-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davenaugler/)
 
-
-
-
 ---
 
-<h2>Languages and Tools</h2>
+<!-- <h2>Languages and Tools</h2> -->
+<h2>Tech Palette</h2>
 <table style="background-color: #27272a" width="100%" border="1"><tr><td valign="top">
 
 <h3 align="center" style="color:red;">Frontend</h3>
@@ -81,7 +80,8 @@
 </table>
 
 ---
-<h2>Daily Tools</h2> 
+<!-- Daily Tools</h2> -->
+<h2>My Toolbox</h2> 
 <p>
 <a href="https://www.warp.dev/b">
   <img src="/assets/DailyTools/Warp_logo.svg" alt="Warp logo" height="30"/>
@@ -93,7 +93,8 @@
 </p>
 
 ---
-<h2>Connect</h2>
+<!-- Connect</h2> -->
+<h2>Let's Chat</h2>
 <div >
 <a href="https://www.linkedin.com/in/davenaugler/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="50"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
