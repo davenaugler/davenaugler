@@ -22,13 +22,13 @@
 ---
 <!-- <h2>About Me</h2> -->
 <h2>Journey in Tech</h2>
-- 🧠 2024 Learning Goals: Full Stack Java web apps, Spring Boot, and React skills.
+🚀 <strong>Product Owner</strong> to remote team of Software Engineers building out a Full Stack Java app designed to showcase developers professional portfolios and receive feedback to enhance their readiness for the software industry.
 
-- :telescope: &nbsp; Collaborating on a web application designed to help Coding Bootcamp students secure professional full-time employment
+- :brain: &nbsp; <strong>2024 Learning Goals:</strong> Full Stack Java web apps, Spring, and dive deeper into React.
 
-- :seedling: &nbsp; Exploring Full Stack Java and React
+- :telescope: &nbsp; <strong>Our Team:</strong> Collaborating on a Full Stack Java web application designed to help Coding Bootcamp students secure professional full-time employment
 
-- :mailbox: &nbsp; How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-davenaugler-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davenaugler/)
+- :mailbox: &nbsp; <strong>Chat:</strong>  [![Linkedin Badge](https://img.shields.io/badge/-davenaugler-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davenaugler/)
 
 ---
 
