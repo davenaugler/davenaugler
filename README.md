@@ -17,19 +17,27 @@
 </h1>
 
 </div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/davenaugler/">LinkedIn</a>
+  ·
+  <a href="https://punk-production.up.railway.app/">Coder Packaging App</a>
+  ·
+  <a href="https://davenaugler.hashnode.dev/">Blog</a>
+</p>
 
 
 ---
 <!-- <h2>About Me</h2> -->
-<h2>Journey in Tech</h2>
+<h2>About Me</h2>
 🚀 <strong>Product Owner</strong> to remote team of Software Engineers building out a Full Stack Java app designed to showcase developers professional portfolios and receive feedback to enhance their readiness for the software industry.
 
+<!--
 - :brain: &nbsp; <strong>2024 Learning Goals:</strong> Full Stack Java web apps, Spring, and dive deeper into React.
 
 - :telescope: &nbsp; <strong>Our Team:</strong> Collaborating on a Full Stack Java web application designed to help Coding Bootcamp students secure professional full-time employment
 
 - :mailbox: &nbsp; <strong>Chat:</strong>  [![Linkedin Badge](https://img.shields.io/badge/-davenaugler-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davenaugler/)
-
+-->
 ---
 
 <!-- <h2>Languages and Tools</h2> -->
@@ -101,11 +109,6 @@
 <a href = "mailto: davenaugler@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" target="_blank" height="50"></a>
 </div>
 
-<!-- <h2>Project Portfolio</h2> -->
-<!-- <h2>Blogs & Insight</h2> -->
-<!-- <h2>Achievements & Certifications</h2> -->
-<!-- <h2>Learning & Growth</h2> -->
-<!-- <h2>Endorsements</h2> -->
-<!--<h2>Fun Facts</h2> -->
+
 
 
