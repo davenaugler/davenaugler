@@ -69,11 +69,20 @@ Java Full-Stack Developer
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
+### Skills
+<p>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://brew.sh/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" width="36" height="36" alt="Homebrew" /></a>
+<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="/assets/images/markdown-original-light.svg" width="32" height="32" alt="Markdown"/></a> 
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>
+</p>
 
 ### Testing
 <p>
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="36" height="36" alt="Maven" /></a>
-<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="/assets/images/mockito-original.png" height="40" alt="Mockito"/></a>
+<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="/assets/images/mockito-clean.png" height="36" alt="Mockito"/></a>
+
+[//]: # (<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="/assets/images/mockito-original.png" height="40" alt="Mockito"/></a>)
 </p>
 
 ### Deployment
@@ -90,16 +99,6 @@ Java Full-Stack Developer
 <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="36" height="36" alt="IntelliJ" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /></a>
 </p>
-
-### Skills
-<p>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://brew.sh/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" width="36" height="36" alt="Homebrew" /></a>
-<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="/assets/images/markdown-original-light.svg" width="32" height="32" alt="Markdown"/></a> 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>
-</p>
-
-
 
 ### Socials
 <p>
