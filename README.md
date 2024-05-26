@@ -62,7 +62,7 @@ Java Full-Stack Developer
 ### Back-End & Database
 <p>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="/assets/BackEnd/thymeleaf-original.png" width="32" height="32" alt="Thymeleaf"/></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="/assets/images/thymeleaf-original.png" width="32" height="32" alt="Thymeleaf"/></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="36" height="36" alt="Spring" /></a>
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="36" height="36" alt="Hibernate" /></a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="36" height="36" alt="Maven" /></a>
@@ -73,12 +73,13 @@ Java Full-Stack Developer
 ### Testing
 <p>
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="36" height="36" alt="Maven" /></a>
+<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="/assets/images/mockito-original.png" height="40" alt="Mockito"/></a>
 </p>
 
 ### Deployment
 <p>
 <a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" width="36" height="36" alt="Railway" /></a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="/assets/Deployment/vercel-original-light.svg" width="32" height="32" alt="Vercel"/></a> 
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="/assets/images/vercel-original-light.svg" width="32" height="32" alt="Vercel"/></a> 
 </p>
 
 ### IDE's & Code Editors
@@ -94,7 +95,7 @@ Java Full-Stack Developer
 <p>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://brew.sh/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" width="36" height="36" alt="Homebrew" /></a>
-<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="/assets/Skills/markdown-original-light.svg" width="32" height="32" alt="Markdown"/></a> 
+<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="/assets/images/markdown-original-light.svg" width="32" height="32" alt="Markdown"/></a> 
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>
 </p>
 
@@ -102,7 +103,7 @@ Java Full-Stack Developer
 
 ### Socials
 <p>
-<a href="https://www.github.com/davenaugler" target="_blank" rel="noreferrer"><img src="/assets/Socials/github-original-light.svg" width="32" height="32" alt="GitHub"/></a> 
+<a href="https://www.github.com/davenaugler" target="_blank" rel="noreferrer"><img src="/assets/images/github-original-light.svg" width="32" height="32" alt="GitHub"/></a> 
 <a href="https://www.linkedin.com/in/davenaugler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a> 
 <a href="https://www.youtube.com/@thedavenaugler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" /></a>
 </p>
