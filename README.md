@@ -1,156 +1,430 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+Hi 👋 my name is Dave Naugler
+=============================
+
+Java Full-Stack Developer
+-------------------------
+
+* 🌍  I'm based in [Boise, ID](https://maps.app.goo.gl/fKNe5UrbGLM6CM9g7)
+* ✉️  You can contact me at [davenaugler@gmail.com](mailto:davenaugler@gmail.com)
+* 🧠  I'm learning Java, Spring, SQL, Maven, and Hibernate
+* ⚡  I enjoy getting into the weeds with git
+
+### Skills
 
 
-<div id="header" align="center">
-<h1>
-  Develop from a position of service and curiosity
-</h1>
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/davenaugler/">LinkedIn</a>
-  ·
-  <a href="https://punk-production.up.railway.app/">Coder Packaging</a>
-  ·
-  <a href="https://davenaugler.hashnode.dev/">Blog</a>
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
 </p>
 
 
----
+### Socials
 
-<h2>About Me</h2>
-
-As Product Owner to [Coder Packaging](https://punk-production.up.railway.app/), I'm collaborating with a remote team of Software Engineers to develop a Full Stack Java application. This platform will showcase developers' professional portfolios and provide feedback to enhance their readiness for the software industry.
-
-
-<!--
-- :brain: &nbsp; <strong>2024 Learning Goals:</strong> Full Stack Java web apps, Spring, and dive deeper into React.
-
-- :telescope: &nbsp; <strong>Our Team:</strong> Collaborating on a Full Stack Java web application designed to help Coding Bootcamp students secure professional full-time employment
-
-- :mailbox: &nbsp; <strong>Chat:</strong>  [![Linkedin Badge](https://img.shields.io/badge/-davenaugler-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davenaugler/)
--->
----
-## Skills
-
-### Frontend
-<div>
-  <img style="margin: 20px" src="/assets/Frontend/javascript.svg" alt="JavaScript" height="35" />
-<!-- <img style="margin: 20px" src="/assets/Frontend/react_horizontal.svg" alt="React" height="60" /> -->
-</div>
-
-
-### Backend
-<div>
-  <img style="margin: 20px" src="/assets/Backend/java2.svg" alt="Java" height="35" />
-  &nbsp;&nbsp;&nbsp;
-  <img style="margin: 20px" src="/assets/Backend/icons8-spring-boot.svg" alt="Spring" height="35" />
-</div>
-
-### Database 
-<div>
-  <img style="margin: 20px" src="/assets/Database/mysql_white_data.svg" alt="MySQL" height="35" />
-</div>
-
-
-### Tools
-<div> 
-  <img style="margin: 20px" src="/assets/Tools/maven_white.svg" alt="Maven" height="35" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" height="35"/></a>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" height="35"/>
-</div>
-
-
-### IDE's
-<div>
-  <img style="margin: 20px" src="/assets/IDE/eclipse.svg" alt="Eclipse IDE" height="35" />
-&nbsp;&nbsp;&nbsp;
-<img style="margin: 20px" src="/assets/IDE/intellij-idea.svg" alt="IntelliJ IDEA" height="35" />
-</div>
+<p align="left"> <a href="https://www.github.com/davenaugler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/davenaugler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@thedavenaugler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
 
 
 
 
 
-<!--
+[//]: # (<!-- <!DOCTYPE html>)
 
-<h2>Skills</h2>
-<table style="background-color: #27272a" width="100%" border="1"><tr><td valign="top">
+[//]: # (<html>)
 
-<h3 align="center" style="color:red;">Frontend</h3>
-<div align="center">  
-<img style="margin: 20px" src="/assets/Frontend/javascript.svg" alt="JavaScript" height="50" />
-<!-- <img style="margin: 20px" src="/assets/Frontend/react_horizontal.svg" alt="React" height="60" /> 
-</div>
+[//]: # (  <head>)
 
-</td><td valign="top">
+[//]: # (    <meta charset="utf-8">)
 
-<h3 align="center">Backend</h3>
-<div align="center">
-<img style="margin: 20px" src="/assets/Backend/java2.svg" alt="Java" height="60" />
-<img style="margin: 20px" src="/assets/Backend/icons8-spring-boot.svg" alt="Spring" height="50" />
-</div>
+[//]: # (    <meta name="viewport" content="width=device-width, initial-scale=1">)
 
-</td><td valign="top">
+[//]: # (    <title>Hello Bulma!</title>)
 
-<h3 align="center">Database</h3>
-<div align="center">
-<img style="margin: 20px" src="/assets/Database/mysql_white_data.svg" alt="MySQL" height="60" />
-</div>
+[//]: # (    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css">)
 
-</td><td valign="top">
+[//]: # (  </head>)
 
-<h3 align="center">Tools</h3>
-<div align="center">
-<img style="margin: 20px" src="/assets/Tools/maven_white.svg" alt="Maven" height="40" />
-&nbsp;&nbsp;&nbsp;
- <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="45" height="45"/></a>
+[//]: # (  <body>)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" width="45" height="45"/>
+[//]: # (<header>)
+
+[//]: # (    <div class="container">)
+
+[//]: # (        <h1 class="title is-1 has-text-centered">Develop from a position of service and curiosity</h1>)
+
+[//]: # (            <p class="has-text-centered">)
+
+[//]: # (                <a href="https://www.linkedin.com/in/davenaugler/">LinkedIn</a>)
+
+[//]: # (                ·)
+
+[//]: # (                <a href="https://punk-production.up.railway.app/">Coder Packaging</a>)
+
+[//]: # (                ·)
+
+[//]: # (                <a href="https://davenaugler.hashnode.dev/">Blog</a>)
+
+[//]: # (            </p>)
+
+[//]: # (    </div>)
+
+[//]: # (</header>)
+
+[//]: # (<section class="section">)
+
+[//]: # (    <div class="container">)
+
+[//]: # (        <h2 class="title is-2">About Me</h2>)
+
+[//]: # (            <p> As Product Owner to <a href="https://punk-production.up.railway.app/">Coder Packaging</a>, I'm )
+
+[//]: # (            collaborating with a remote team of Software Engineers to develop a Full Stack Java application. )
+
+[//]: # (            This platform will showcase developers' professional portfolios and provide feedback to enhance their )
+
+[//]: # (            readiness for the software industry.</p>)
+
+[//]: # (    </div>)
+
+[//]: # (    <hr>)
+
+[//]: # (    <div class="container">)
+
+[//]: # (        <h3 class="title is-3 mt-4">Skills</h3>)
+
+[//]: # (        <h4 class="title is-4 mt-4">Frontend</h4>)
+
+[//]: # (            <div>)
+
+[//]: # (            <img style="margin: 20px" src="/assets/Frontend/javascript.svg" alt="JavaScript" height="35" />)
+
+[//]: # (<!-- <img style="margin: 20px" src="/assets/Frontend/react_horizontal.svg" alt="React" height="60" /> -->)
+
+[//]: # (            </div>)
+
+[//]: # (    </div>)
+
+[//]: # ()
+[//]: # ()
+[//]: # ()
+[//]: # (</section>)
+
+[//]: # ()
+[//]: # (<a href="https://example.com" target="_blank"><img src="https://img.shields.io/badge/Button-Text-blue?style=for-the-badge" alt="Button Text"></a>)
+
+[//]: # ()
+[//]: # (  )
+[//]: # (  </body>)
+
+[//]: # (</html>)
 
 
-  
-</div>
+[//]: # ()
 
-</td><td valign="top">
+[//]: # ()
 
-<h3 align="center">IDE's</h3>
-<div align="center">
-<img style="margin: 20px" src="/assets/IDE/eclipse.svg" alt="Eclipse IDE" height="50" />
-&nbsp;&nbsp;&nbsp;
-<img style="margin: 20px" src="/assets/IDE/intellij-idea.svg" alt="IntelliJ IDEA" height="50" />
-</div>
+[//]: # (<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />)
 
-</td></tr>
+[//]: # ()
 
-</table>
--->
----
+[//]: # ()
 
-<h2>Daily Tool Box</h2>
+[//]: # (<div id="header" align="center">)
 
-<p>
-<a href="https://www.warp.dev/b">
-  <img src="/assets/DailyTools/Warp_logo.svg" alt="Warp logo" height="30"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.inkdrop.app/" >
-  <img style="margin-left: 20px" src="/assets/DailyTools/InkDrop_logo.png" alt="InkDrop logo" height="40"/>
-  </a>
-</p>
+[//]: # (<h1>)
 
----
+[//]: # (  Develop from a position of service and curiosity)
 
-<h2>Let's grab some coffee</h2>
-<div >
-<a href="https://www.linkedin.com/in/davenaugler/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="50"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href = "mailto: davenaugler@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" target="_blank" height="50"></a>
-</div>
+[//]: # (</h1>)
 
+[//]: # (</div>)
 
+[//]: # ()
 
+[//]: # (<p align="center">)
 
+[//]: # (  <a href="https://www.linkedin.com/in/davenaugler/">LinkedIn</a>)
+
+[//]: # (  ·)
+
+[//]: # (  <a href="https://punk-production.up.railway.app/">Coder Packaging</a>)
+
+[//]: # (  ·)
+
+[//]: # (  <a href="https://davenaugler.hashnode.dev/">Blog</a>)
+
+[//]: # (</p>)
+
+[//]: # ()
+
+[//]: # ()
+
+[//]: # (---)
+
+[//]: # ()
+
+[//]: # (<h2>About Me</h2>)
+
+[//]: # ()
+
+[//]: # (As Product Owner to [Coder Packaging]&#40;https://punk-production.up.railway.app/&#41;, I'm collaborating with a remote team of Software Engineers to develop a Full Stack Java application. This platform will showcase developers' professional portfolios and provide feedback to enhance their readiness for the software industry.)
+
+[//]: # ()
+
+[//]: # ()
+
+[//]: # (<!--)
+
+[//]: # (- :brain: &nbsp; <strong>2024 Learning Goals:</strong> Full Stack Java web apps, Spring, and dive deeper into React.)
+
+[//]: # ()
+
+[//]: # (- :telescope: &nbsp; <strong>Our Team:</strong> Collaborating on a Full Stack Java web application designed to help Coding Bootcamp students secure professional full-time employment)
+
+[//]: # ()
+
+[//]: # (- :mailbox: &nbsp; <strong>Chat:</strong>  [![Linkedin Badge]&#40;https://img.shields.io/badge/-davenaugler-blue?style=flat&logo=Linkedin&logoColor=white&#41;]&#40;https://www.linkedin.com/in/davenaugler/&#41;)
+
+[//]: # (-->)
+
+[//]: # (---)
+
+[//]: # (## Skills)
+
+[//]: # ()
+
+[//]: # (### Frontend)
+
+[//]: # (<div>)
+
+[//]: # (  <img style="margin: 20px" src="/assets/Frontend/javascript.svg" alt="JavaScript" height="35" />)
+
+[//]: # (<!-- <img style="margin: 20px" src="/assets/Frontend/react_horizontal.svg" alt="React" height="60" /> -->)
+
+[//]: # (</div>)
+
+[//]: # ()
+
+[//]: # ()
+
+[//]: # (### Backend)
+
+[//]: # (<div>)
+
+[//]: # (  <img style="margin: 20px" src="/assets/Backend/java2.svg" alt="Java" height="35" />)
+
+[//]: # (  &nbsp;&nbsp;&nbsp;)
+
+[//]: # (  <img style="margin: 20px" src="/assets/Backend/icons8-spring-boot.svg" alt="Spring" height="35" />)
+
+[//]: # (</div>)
+
+[//]: # ()
+
+[//]: # (### Database )
+
+[//]: # (<div>)
+
+[//]: # (  <img style="margin: 20px" src="/assets/Database/mysql_white_data.svg" alt="MySQL" height="35" />)
+
+[//]: # (</div>)
+
+[//]: # ()
+
+[//]: # ()
+
+[//]: # (### Tools)
+
+[//]: # (<div> )
+
+[//]: # (  <img style="margin: 20px" src="/assets/Tools/maven_white.svg" alt="Maven" height="35" />)
+
+[//]: # (&nbsp;&nbsp;&nbsp;)
+
+[//]: # (<img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" height="35"/></a>)
+
+[//]: # (&nbsp;&nbsp;&nbsp;)
+
+[//]: # (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" height="35"/>)
+
+[//]: # (</div>)
+
+[//]: # ()
+
+[//]: # ()
+
+[//]: # (### IDE's)
+
+[//]: # (<div>)
+
+[//]: # (  <img style="margin: 20px" src="/assets/IDE/eclipse.svg" alt="Eclipse IDE" height="35" />)
+
+[//]: # (&nbsp;&nbsp;&nbsp;)
+
+[//]: # (<img style="margin: 20px" src="/assets/IDE/intellij-idea.svg" alt="IntelliJ IDEA" height="35" />)
+
+[//]: # (</div>)
+
+[//]: # ()
+
+[//]: # ()
+
+[//]: # ()
+
+[//]: # ()
+
+[//]: # ()
+
+[//]: # ()
+
+[//]: # (<!--)
+
+[//]: # ()
+
+[//]: # (<h2>Skills</h2>)
+
+[//]: # (<table style="background-color: #27272a" width="100%" border="1"><tr><td valign="top">)
+
+[//]: # ()
+
+[//]: # (<h3 align="center" style="color:red;">Frontend</h3>)
+
+[//]: # (<div align="center">  )
+
+[//]: # (<img style="margin: 20px" src="/assets/Frontend/javascript.svg" alt="JavaScript" height="50" />)
+
+[//]: # (<!-- <img style="margin: 20px" src="/assets/Frontend/react_horizontal.svg" alt="React" height="60" /> )
+
+[//]: # (</div>)
+
+[//]: # ()
+
+[//]: # (</td><td valign="top">)
+
+[//]: # ()
+
+[//]: # (<h3 align="center">Backend</h3>)
+
+[//]: # (<div align="center">)
+
+[//]: # (<img style="margin: 20px" src="/assets/Backend/java2.svg" alt="Java" height="60" />)
+
+[//]: # (<img style="margin: 20px" src="/assets/Backend/icons8-spring-boot.svg" alt="Spring" height="50" />)
+
+[//]: # (</div>)
+
+[//]: # ()
+
+[//]: # (</td><td valign="top">)
+
+[//]: # ()
+
+[//]: # (<h3 align="center">Database</h3>)
+
+[//]: # (<div align="center">)
+
+[//]: # (<img style="margin: 20px" src="/assets/Database/mysql_white_data.svg" alt="MySQL" height="60" />)
+
+[//]: # (</div>)
+
+[//]: # ()
+
+[//]: # (</td><td valign="top">)
+
+[//]: # ()
+
+[//]: # (<h3 align="center">Tools</h3>)
+
+[//]: # (<div align="center">)
+
+[//]: # (<img style="margin: 20px" src="/assets/Tools/maven_white.svg" alt="Maven" height="40" />)
+
+[//]: # (&nbsp;&nbsp;&nbsp;)
+
+[//]: # ( <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="45" height="45"/></a>)
+
+[//]: # ()
+
+[//]: # (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" width="45" height="45"/>)
+
+[//]: # ()
+
+[//]: # ()
+
+[//]: # (  )
+
+[//]: # (</div>)
+
+[//]: # ()
+
+[//]: # (</td><td valign="top">)
+
+[//]: # ()
+
+[//]: # (<h3 align="center">IDE's</h3>)
+
+[//]: # (<div align="center">)
+
+[//]: # (<img style="margin: 20px" src="/assets/IDE/eclipse.svg" alt="Eclipse IDE" height="50" />)
+
+[//]: # (&nbsp;&nbsp;&nbsp;)
+
+[//]: # (<img style="margin: 20px" src="/assets/IDE/intellij-idea.svg" alt="IntelliJ IDEA" height="50" />)
+
+[//]: # (</div>)
+
+[//]: # ()
+
+[//]: # (</td></tr>)
+
+[//]: # ()
+
+[//]: # (</table>)
+
+[//]: # (-->)
+
+[//]: # (---)
+
+[//]: # ()
+
+[//]: # (<h2>Daily Tool Box</h2>)
+
+[//]: # ()
+
+[//]: # (<p>)
+
+[//]: # (<a href="https://www.warp.dev/b">)
+
+[//]: # (  <img src="/assets/DailyTools/Warp_logo.svg" alt="Warp logo" height="30"/>)
+
+[//]: # (  </a>)
+
+[//]: # (  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)
+
+[//]: # (  <a href="https://www.inkdrop.app/" >)
+
+[//]: # (  <img style="margin-left: 20px" src="/assets/DailyTools/InkDrop_logo.png" alt="InkDrop logo" height="40"/>)
+
+[//]: # (  </a>)
+
+[//]: # (</p>)
+
+[//]: # ()
+
+[//]: # (---)
+
+[//]: # ()
+
+[//]: # (<h2>Let's grab some coffee</h2>)
+
+[//]: # (<div >)
+
+[//]: # (<a href="https://www.linkedin.com/in/davenaugler/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="50"/></a>)
+
+[//]: # (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)
+
+[//]: # (<a href = "mailto: davenaugler@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" target="_blank" height="50"></a>)
+
+[//]: # (</div>)
+
+[//]: # ()
+
+[//]: # ()
