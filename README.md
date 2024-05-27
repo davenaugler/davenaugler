@@ -44,7 +44,7 @@ Java Full-Stack Developer
 ### Testing
 <p>
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="36" height="36" alt="Maven" /></a>
-<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="/assets/images/mockito-clean.png" height="36" alt="Mockito"/></a>
+<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="/assets/images/mockito-original-gray.png" height="36" alt="Mockito"/></a>
 </p>
 
 ### Deployment
