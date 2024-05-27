@@ -68,6 +68,13 @@ Java Full-Stack Developer
 <a href="https://www.linkedin.com/in/davenaugler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a> 
 <a href="https://www.youtube.com/@thedavenaugler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" /></a>
 
+[//]: # (Many of the icons used were pulled from https://devicon.dev/)
+
+
+
+
+
+
 
 
 [//]: # (<!-- <!DOCTYPE html>)
