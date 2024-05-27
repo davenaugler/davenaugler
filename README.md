@@ -1,72 +1,192 @@
-Hi 👋 my name is Dave Naugler
+[//]: # (GITHUB PROFILE BIO VERSION 3 - Assistance from ChatGPT 4o)
+
+
+Dave Naugler
 =============================
 
 Java Full-Stack Developer
 -------------------------
 
-* 🌍 I'm based in [Boise, ID](https://maps.app.goo.gl/fKNe5UrbGLM6CM9g7)
-* ✉️ You can contact me at [davenaugler@gmail.com](mailto:davenaugler@gmail.com)
-* 🧠 Advancing my skills in Java, Spring, Hibernate, Maven, and SQL to develop back-end systems.
-* ⚡ I especially enjoy learning and sharing my knowledge of git
+* 🌍 Based in [Boise, ID](https://maps.app.goo.gl/fKNe5UrbGLM6CM9g7)
+* ✉️ Connect with me at [davenaugler@gmail.com](mailto:davenaugler@gmail.com)
 
-### Front-End
-<p>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://bulma.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg" width="36" height="36" alt="Bulma" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="TailwindCSS" /></a>
-</p>
+---
 
-### Back-End & Database
-<p>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="/assets/images/thymeleaf-original.png" width="32" height="32" alt="Thymeleaf"/></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="36" height="36" alt="Spring" /></a>
-<a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="36" height="36" alt="Hibernate" /></a>
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="36" height="36" alt="Maven" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+### Overview
+I am a Java Full-Stack Developer with a solid foundation in backend development and a passion for creating user experiences. With a background in design, I bring a unique perspective to the development process, focusing on quality and user-centric solutions.
 
-### Skills
-<p>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://brew.sh/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" width="36" height="36" alt="Homebrew" /></a>
-<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="/assets/images/markdown-original-gray.png" width="32" height="32" alt="Markdown"/></a> 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>
-</p>
+---
 
-### Testing
-<p>
-<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="36" height="36" alt="Maven" /></a>
-<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="/assets/images/mockito-original-gray.png" height="36" alt="Mockito"/></a>
-</p>
+### Skills & Technologies
+**Front-End**: HTML5, CSS3, JavaScript, React, SASS, Bootstrap, Bulma, MaterialUI, Tailwind CSS
+**Back-End**: Java, Spring, Hibernate, Maven, SQL  
+**Database**: MySQL, PostgreSQL  
+**Tools**: Git, Docker, Jenkins  
+**Testing**: JUnit, Mockito
 
-### Deployment
-<p>
-<a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="/assets/images/railway-original-gray.png" width="36" height="36" alt="Railway" /></a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="/assets/images/vercel-original-gray.png" width="32" height="32" alt="Vercel"/></a> 
-</p>
+---
+
+### Notable Projects
+**coder packaging**: 
+- App: Assist Coders Campus students find employment
+- Tech used: Java, Spring, Hibernate, Maven, SQL, JavaScript
+- Role: Developer & Volunteer Product Owner
+ 
+[Live Demo](https://punk-production.up.railway.app/)
+
+---
+
+[//]: # (### Achievements & Certifications)
+
+[//]: # (- Certified Java Developer)
+
+[//]: # (- GitHub Contributor with 30+ followers)
+
+[//]: # (---)
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/davenaugler" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/DaveNaugler" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter">
+  </a>
+  <a href="https://github.com/davenaugler" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="GitHub">
+  </a>
+</div>
 
 
-### IDE's & Code Editors
-<p>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="36" height="36" alt="IntelliJ" /></a>
-<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="36" height="36" alt="WebStorm" /></a>
-<a href="https://www.jetbrains.com/datagrip/?var=light" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="36" height="36" alt="DataGrip" /></a>
-<a href="https://eclipseide.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="36" height="36" alt="Eclipse" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /></a>
-</p>
 
-### Socials
-<p>
-<a href="https://www.github.com/davenaugler" target="_blank" rel="noreferrer"><img src="/assets/images/github-original-gray.png" width="32" height="32" alt="GitHub"/></a> 
-<a href="https://www.linkedin.com/in/davenaugler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a> 
-<a href="https://www.youtube.com/@thedavenaugler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" /></a>
+[//]: # (GITHUB PROFILE BIO VERSION 2)
+
+[//]: # (Hi 👋 my name is Dave Naugler)
+
+[//]: # (=============================)
+
+[//]: # ()
+[//]: # (Java Full-Stack Developer)
+
+[//]: # (-------------------------)
+
+[//]: # ()
+[//]: # (* 🌍 I'm based in [Boise, ID]&#40;https://maps.app.goo.gl/fKNe5UrbGLM6CM9g7&#41;)
+
+[//]: # (* ✉️ You can contact me at [davenaugler@gmail.com]&#40;mailto:davenaugler@gmail.com&#41;)
+
+[//]: # (* 🧠 Advancing my skills in Java, Spring, Hibernate, Maven, and SQL to develop back-end systems.)
+
+[//]: # (* ⚡ I especially enjoy learning and sharing my knowledge of git)
+
+[//]: # ()
+[//]: # (### Front-End)
+
+[//]: # (<p>)
+
+[//]: # (<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>)
+
+[//]: # (<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>)
+
+[//]: # (<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>)
+
+[//]: # (<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>)
+
+[//]: # (<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" /></a>)
+
+[//]: # (<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap" /></a>)
+
+[//]: # (<a href="https://bulma.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg" width="36" height="36" alt="Bulma" /></a>)
+
+[//]: # (<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="36" height="36" alt="Material UI" /></a>)
+
+[//]: # (<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="TailwindCSS" /></a>)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (### Back-End & Database)
+
+[//]: # (<p>)
+
+[//]: # (<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a>)
+
+[//]: # (<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="/assets/images/thymeleaf-original.png" width="32" height="32" alt="Thymeleaf"/></a>)
+
+[//]: # (<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="36" height="36" alt="Spring" /></a>)
+
+[//]: # (<a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="36" height="36" alt="Hibernate" /></a>)
+
+[//]: # (<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="36" height="36" alt="Maven" /></a>)
+
+[//]: # (<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a>)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (### Skills)
+
+[//]: # (<p>)
+
+[//]: # (<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>)
+
+[//]: # (<a href="https://brew.sh/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" width="36" height="36" alt="Homebrew" /></a>)
+
+[//]: # (<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="/assets/images/markdown-original-gray.png" width="32" height="32" alt="Markdown"/></a> )
+
+[//]: # (<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (### Testing)
+
+[//]: # (<p>)
+
+[//]: # (<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="36" height="36" alt="Maven" /></a>)
+
+[//]: # (<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="/assets/images/mockito-original-gray.png" height="36" alt="Mockito"/></a>)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (### Deployment)
+
+[//]: # (<p>)
+
+[//]: # (<a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="/assets/images/railway-original-gray.png" width="36" height="36" alt="Railway" /></a>)
+
+[//]: # (<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="/assets/images/vercel-original-gray.png" width="32" height="32" alt="Vercel"/></a> )
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # ()
+[//]: # (### IDE's & Code Editors)
+
+[//]: # (<p>)
+
+[//]: # (<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="36" height="36" alt="IntelliJ" /></a>)
+
+[//]: # (<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="36" height="36" alt="WebStorm" /></a>)
+
+[//]: # (<a href="https://www.jetbrains.com/datagrip/?var=light" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="36" height="36" alt="DataGrip" /></a>)
+
+[//]: # (<a href="https://eclipseide.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="36" height="36" alt="Eclipse" /></a>)
+
+[//]: # (<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /></a>)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (### Socials)
+
+[//]: # (<p>)
+
+[//]: # (<a href="https://www.github.com/davenaugler" target="_blank" rel="noreferrer"><img src="/assets/images/github-original-gray.png" width="32" height="32" alt="GitHub"/></a> )
+
+[//]: # (<a href="https://www.linkedin.com/in/davenaugler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a> )
+
+[//]: # (<a href="https://www.youtube.com/@thedavenaugler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" /></a>)
 
 [//]: # (Many of the icons used were pulled from https://devicon.dev/)
 
@@ -75,7 +195,7 @@ Java Full-Stack Developer
 
 
 
-
+[//]: # (GITHUB PROFILE BIO VERSION 1)
 
 [//]: # (<!-- <!DOCTYPE html>)
 
