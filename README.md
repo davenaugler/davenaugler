@@ -49,9 +49,10 @@ Java Full-Stack Developer
 
 ### Deployment
 <p>
-<a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" width="36" height="36" alt="Railway" /></a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="/assets/images/vercel-original-light.svg" width="32" height="32" alt="Vercel"/></a> 
+<a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="/assets/images/railway-original-gray.png" width="36" height="36" alt="Railway" /></a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="/assets/images/vercel-original-gray.png" width="32" height="32" alt="Vercel"/></a> 
 </p>
+
 
 ### IDE's & Code Editors
 <p>
@@ -64,10 +65,13 @@ Java Full-Stack Developer
 
 ### Socials
 <p>
-<a href="https://www.github.com/davenaugler" target="_blank" rel="noreferrer"><img src="/assets/images/github-original-light.svg" width="32" height="32" alt="GitHub"/></a> 
+<a href="https://www.github.com/davenaugler" target="_blank" rel="noreferrer"><img src="/assets/images/github-original-gray.png" width="32" height="32" alt="GitHub"/></a> 
 <a href="https://www.linkedin.com/in/davenaugler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a> 
 <a href="https://www.youtube.com/@thedavenaugler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" /></a>
-</p>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
 
 
 
