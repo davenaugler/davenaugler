@@ -20,7 +20,6 @@ Java Full-Stack Developer
 <a href="https://bulma.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg" width="36" height="36" alt="Bulma" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" width="36" height="36" alt="Babel" /></a>
 </p>
 
 ### Back-End & Database
