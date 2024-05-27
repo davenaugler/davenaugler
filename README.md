@@ -6,7 +6,7 @@ Java Full-Stack Developer
 
 * 🌍 I'm based in [Boise, ID](https://maps.app.goo.gl/fKNe5UrbGLM6CM9g7)
 * ✉️ You can contact me at [davenaugler@gmail.com](mailto:davenaugler@gmail.com)
-* 🧠 Deepening my knowledge of Java ecosystem tools and frameworks including Spring, Hibernate, Maven, and SQL for building back-end systems.
+* 🧠 Advancing my skills in Java, Spring, Hibernate, Maven, and SQL to develop back-end systems.
 * ⚡ I especially enjoy learning and sharing my knowledge of git
 
 ### Front-End
