@@ -34,18 +34,18 @@ I have a solid foundation in backend development and a passion for creating user
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="25" alt="Sass" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="25" alt="TailwindCSS" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="25" alt="Java" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="/assets/images/thymeleaf-original.png" width="25" alt="Thymeleaf"/></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="./assets/images/thymeleaf-original.png" width="25" alt="Thymeleaf"/></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="25" alt="Spring" /></a>
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="25" alt="Hibernate" /></a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="25" alt="Maven" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="25" alt="MySQL" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="25" alt="Git" /></a>
-<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="/assets/images/markdown-original-gray.png" width="25" alt="Markdown"/></a>
+<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="./assets/images/markdown-original-gray.png" width="25" alt="Markdown"/></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="25" alt="Postman" /></a>
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="25" alt="Maven" /></a>
-<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="/assets/images/mockito-original-gray.png" height="25" alt="Mockito"/></a>
-<a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="/assets/images/railway-original-gray.png" width="25" alt="Railway" /></a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="/assets/images/vercel-original-gray.png" width="25" alt="Vercel"/></a>
+<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="./assets/images/mockito-original-gray.png" height="25" alt="Mockito"/></a>
+<a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="./assets/images/railway-original-gray.png" width="25" alt="Railway" /></a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="./assets/images/vercel-original-gray.png" width="25" alt="Vercel"/></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="25" alt="IntelliJ" /></a>
 <a href="https://www.jetbrains.com/datagrip/?var=light" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="25" alt="DataGrip" /></a>
 
@@ -75,9 +75,11 @@ I have a solid foundation in backend development and a passion for creating user
 
 <div align="center">
   <a href="https://www.linkedin.com/in/davenaugler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/davenaugler" target="_blank" rel="noreferrer"><img src="/assets/images/hashnode_icon.png" width="28" alt="Hashnode"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.github.com/davenaugler" target="_blank" rel="noreferrer"><img src="/assets/images/github-original-gray.png" width="28" alt="GitHub"/></a>
+  <a href="https://github.com/davenaugler" target="_blank" rel="noreferrer"><img src="./assets/images/hashnode_icon.png" width="28" alt="Hashnode"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.github.com/davenaugler" target="_blank" rel="noreferrer"><img src="./assets/images/github-original-gray.png" width="28" alt="GitHub"/></a>
 </div>
+
+
 
 
 
