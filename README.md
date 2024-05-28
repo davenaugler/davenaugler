@@ -13,7 +13,7 @@ Java Full-Stack Developer
 ---
 
 [//]: # (<h3><img src="/assets/images/number-one.png" width="25" alt="Number 1 Icon made by Pixel perfect from www.flaticon.com"/> Overview</h3>)
-### <img src="/assets/images/number-one.png" width="25" alt="Number 1 Icon made by Pixel perfect from www.flaticon.com"/> Overview
+### <img src="/assets/images/number-one.png" width="20" alt="Number 1 Icon made by Pixel perfect from www.flaticon.com"/> Overview
 I have a solid foundation in backend development and a passion for creating user experiences. With a background in design, I enjoy focusing on quality and user-centric solutions.
 
 ---
