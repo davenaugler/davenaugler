@@ -30,27 +30,27 @@ I am a Java Full-Stack Developer with a solid foundation in backend development 
 **Testing**: JUnit, Mockito
 **Deployment**: Railway, Vercel
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="/assets/images/thymeleaf-original.png" width="32" height="32" alt="Thymeleaf"/></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="36" height="36" alt="Spring" /></a>
-<a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="36" height="36" alt="Hibernate" /></a>
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="36" height="36" alt="Maven" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="/assets/images/markdown-original-gray.png" width="32" height="32" alt="Markdown"/></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>
-<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="36" height="36" alt="Maven" /></a>
-<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="/assets/images/mockito-original-gray.png" height="36" alt="Mockito"/></a>
-<a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="/assets/images/railway-original-gray.png" width="36" height="36" alt="Railway" /></a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="/assets/images/vercel-original-gray.png" width="32" height="32" alt="Vercel"/></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="36" height="36" alt="IntelliJ" /></a>
-<a href="https://www.jetbrains.com/datagrip/?var=light" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="36" height="36" alt="DataGrip" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="25" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="25" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25" alt="JavaScript" /></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="25" alt="React" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="25" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="25" alt="TailwindCSS" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="25" alt="Java" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="/assets/images/thymeleaf-original.png" width="25" alt="Thymeleaf"/></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="25" alt="Spring" /></a>
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="25" alt="Hibernate" /></a>
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="25" alt="Maven" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="25" alt="MySQL" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="25" alt="Git" /></a>
+<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="/assets/images/markdown-original-gray.png" width="25" alt="Markdown"/></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="25" alt="Postman" /></a>
+<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="25" alt="Maven" /></a>
+<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="/assets/images/mockito-original-gray.png" width="25" alt="Mockito"/></a>
+<a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="/assets/images/railway-original-gray.png" width="25" alt="Railway" /></a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="/assets/images/vercel-original-gray.png" width="25" alt="Vercel"/></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="25" alt="IntelliJ" /></a>
+<a href="https://www.jetbrains.com/datagrip/?var=light" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="25" alt="DataGrip" /></a>
 
 
 
