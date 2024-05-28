@@ -59,7 +59,7 @@ I have a solid foundation in backend development and a passion for creating user
 - **Role**: Developer & Volunteer Product Owner
 - **Responsibilities**: Managed project development, debugged codebase, and contributed to the overall architecture and functionality of the application.
 
-**[Repository](https://github.com/CodersCampus/cp) | [Live Demo](https://punk-production.up.railway.app/)** - _Repository is private to students and alumni of [Coders Campus](https://www.coderscampus.com/)_.
+**[Repository](https://github.com/CodersCampus/cp) | [Live Demo](https://punk-production.up.railway.app/)** - _Repository is private for students and alumni of [Coders Campus](https://www.coderscampus.com/)_.
 
 ---
 
