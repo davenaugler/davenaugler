@@ -9,15 +9,9 @@ Java Full-Stack Developer
 
 * 🌍 Based in [Boise, ID](https://maps.app.goo.gl/fKNe5UrbGLM6CM9g7)
 * ✉️ Connect with me at [davenaugler@gmail.com](mailto:davenaugler@gmail.com)
-  "Icon made by Pixel perfect from www.flaticon.com"
+ 
 ---
 
-[//]: # (<h3><img src="/assets/images/number-one.png" width="25" alt="Number 1 Icon made by Pixel perfect from www.flaticon.com"/> Overview</h3>)
-[//]: # (<div>)
-
-[//]: # (  <h3><img src="/assets/images/number-one.png" width="20" alt="Number 1 Icon made by Pixel perfect from www.flaticon.com" style="horizontal-align: middle;"/> Overview</h3>)
-
-[//]: # (</div>)
 
 ### 🚀 Overview
 I have a solid foundation in backend development and a passion for creating user experiences. With a background in design, I enjoy focusing on quality and user-centric solutions.
