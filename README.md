@@ -63,27 +63,11 @@ I have a solid foundation in backend development and a passion for creating user
 
 ---
 
-[//]: # (<div>)
-
-[//]: # (<a href="https://www.linkedin.com/in/davenaugler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;)
-
-[//]: # (<a href="https://github.com/davenaugler" target="_blank" rel="noreferrer"><img src="/assets/images/hashnode_icon.png" alt="Hashnode"></a>&nbsp;&nbsp;&nbsp;)
-
-[//]: # (<a href="https://www.github.com/davenaugler" target="_blank" rel="noreferrer"><img src="/assets/images/github-original-gray.png" width="22" alt="GitHub"/></a>)
-
-[//]: # (</div>)
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/davenaugler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/davenaugler" target="_blank" rel="noreferrer"><img src="./assets/images/hashnode_icon.png" width="28" alt="Hashnode"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.github.com/davenaugler" target="_blank" rel="noreferrer"><img src="./assets/images/github-original-gray.png" width="28" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/davenaugler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" alt="LinkedIn" style="margin-top: 1.2rem;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/davenaugler" target="_blank" rel="noreferrer"><img src="./assets/images/hashnode_icon.png" width="32" alt="Hashnode" style="margin-top: 1.2rem;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.github.com/davenaugler" target="_blank" rel="noreferrer"><img src="./assets/images/github-original-gray.png" width="32" alt="GitHub" style="margin-top: 1.2rem;"/></a>
 </div>
-
-
-
-
-
-
 
 
 
