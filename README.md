@@ -8,7 +8,7 @@ Java Full-Stack Developer
 -------------------------
 
 * 🌍 Based in [Boise, ID](https://maps.app.goo.gl/fKNe5UrbGLM6CM9g7)
-* ✉️ Connect with me at [davenaugler@gmail.com](mailto:davenaugler@gmail.com)
+* 📥 Connect with me at [davenaugler@gmail.com](mailto:davenaugler@gmail.com)
   "Icon made by Pixel perfect from www.flaticon.com"
 ---
 
@@ -19,12 +19,13 @@ Java Full-Stack Developer
 
 [//]: # (</div>)
 
-### 1️⃣ Overview
+### 🚀 Overview
 I have a solid foundation in backend development and a passion for creating user experiences. With a background in design, I enjoy focusing on quality and user-centric solutions.
 
 ---
 
-### 2️⃣ Skills & Technologies
+[//]: # (### 2️⃣ Skills & Technologies)
+### 🛠️ Skills & Technologies
 **Front-End**: HTML5, CSS3, JavaScript, React, SASS, Bootstrap, Bulma, MaterialUI, Tailwind CSS  
 **Back-End**: Java, Spring, Hibernate, Maven, Thymeleaf  
 **Database**: SQL  
@@ -55,7 +56,7 @@ I have a solid foundation in backend development and a passion for creating user
 <a href="https://www.jetbrains.com/datagrip/?var=light" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="25" alt="DataGrip" /></a>
 ---
 
-### 3️⃣ Notable Projects
+### 🏗️ Notable Projects
 **coder packaging** - [Live Demo](https://punk-production.up.railway.app/)
 - **App**: Assist CodersCampus students find employment
 - **Tech**: Java, Spring, Hibernate, Maven, SQL, JavaScript
