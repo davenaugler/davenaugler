@@ -11,6 +11,9 @@ Java Full-Stack Developer
 * ✉️ Connect with me at [davenaugler@gmail.com](mailto:davenaugler@gmail.com)
 
 ---
+<span><img src="/assets/images/num1.png" width="25" alt="Number 1"></span>
+
+<i class="fas fa-info-circle"></i> ### Overview
 
 ### Overview
 I have a solid foundation in backend development and a passion for creating user experiences. With a background in design, I enjoy focusing on quality and user-centric solutions.
