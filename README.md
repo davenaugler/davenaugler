@@ -51,19 +51,13 @@ I am a Java Full-Stack Developer with a solid foundation in backend development 
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="/assets/images/vercel-original-gray.png" width="25" alt="Vercel"/></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="25" alt="IntelliJ" /></a>
 <a href="https://www.jetbrains.com/datagrip/?var=light" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="25" alt="DataGrip" /></a>
-
-
-
 ---
 
 ### Notable Projects
-#### [coder packaging](https://punk-production.up.railway.app/)
+**coder packaging** - [Live Demo](https://punk-production.up.railway.app/)
 - **App**: Assist CodersCampus students find employment
 - **Tech**: Java, Spring, Hibernate, Maven, SQL, JavaScript
 - **Role**: Developer & Volunteer Product Owner
- 
-[Live Demo](https://punk-production.up.railway.app/)
-
 ---
 
 [//]: # (### Achievements & Certifications)
