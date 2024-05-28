@@ -61,35 +61,12 @@ I have a solid foundation in backend development and a passion for creating user
 
 ---
 
-[//]: # (<div align="center">)
-
-[//]: # (  <a href="https://www.linkedin.com/in/davenaugler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" alt="LinkedIn" style="margin-top: 1.2rem;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)
-
-[//]: # (  <a href="https://github.com/davenaugler" target="_blank" rel="noreferrer"><img src="./assets/images/hashnode_icon.png" width="32" alt="Hashnode" style="margin-top: 1.2rem;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)
-
-[//]: # (  <a href="https://www.github.com/davenaugler" target="_blank" rel="noreferrer"><img src="./assets/images/github-original-gray.png" width="32" alt="GitHub" style="margin-top: 1.2rem;"/></a>)
-
-[//]: # (</div>)
-
-
-
-
-[//]: # (<div align="center" style="margin-top: 1.2rem;"> )
-
-[//]: # (<a href="https://www.linkedin.com/in/davenaugler" target="_blank" rel="noreferrer"> <picture> <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="&#40;prefers-color-scheme: light&#41;" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="34"  /> </picture> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)
-
-[//]: # (<a href="https://davenaugler.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="&#40;prefers-color-scheme: light&#41;" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="34"  /> </picture> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)
-
-[//]: # (<a href="https://www.github.com/davenaugler" target="_blank" rel="noreferrer"> <picture> <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="&#40;prefers-color-scheme: light&#41;" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="34"  /> </picture> </a> )
-
-[//]: # (</div>)
-
-<p align="center"> 
+<div align="center"> 
   <a href="https://www.linkedin.com/in/davenaugler" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="34" style="margin-top: 1.2rem;" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="34" style="margin-top: 1.1rem;" />
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -97,7 +74,7 @@ I have a solid foundation in backend development and a passion for creating user
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="34" style="margin-top: 1.2rem;" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="34" style="margin-top: 1.1rem;" />
     </picture>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -105,10 +82,10 @@ I have a solid foundation in backend development and a passion for creating user
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="34" style="margin-top: 1.2rem;" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="34" style="margin-top: 1.1rem;" />
     </picture>
   </a>
-</p>
+</div>
 
 
 
