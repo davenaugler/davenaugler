@@ -55,29 +55,12 @@ I have a solid foundation in backend development and a passion for creating user
 - **Role**: Developer & Volunteer Product Owner
 ---
 
-[//]: # (### Achievements & Certifications)
-
-[//]: # (- Certified Java Developer)
-
-[//]: # (- GitHub Contributor with 30+ followers)
-
-[//]: # (---)
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/davenaugler" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/DaveNaugler" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter">
-  </a>
-  <a href="https://github.com/davenaugler" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="GitHub">
-  </a>
+  <a href="https://www.linkedin.com/in/davenaugler" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://twitter.com/DaveNaugler" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter"></a>
+  <a href="https://github.com/davenaugler" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="GitHub"></a>
 </div>
 
-
-
-[//]: # (<p>)
 
 
 
