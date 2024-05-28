@@ -57,10 +57,10 @@ I am a Java Full-Stack Developer with a solid foundation in backend development 
 ---
 
 ### Notable Projects
-**coder packaging**: 
-- App: Assist Coders Campus students find employment
-- Tech used: Java, Spring, Hibernate, Maven, SQL, JavaScript
-- Role: Developer & Volunteer Product Owner
+#### [coder packaging](https://punk-production.up.railway.app/)
+- **App**: Assist CodersCampus students find employment
+- **Tech**: Java, Spring, Hibernate, Maven, SQL, JavaScript
+- **Role**: Developer & Volunteer Product Owner
  
 [Live Demo](https://punk-production.up.railway.app/)
 
