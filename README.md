@@ -12,20 +12,18 @@ Java Full-Stack Developer
  
 ---
 
-
 ### 🚀 Overview
 I have a solid foundation in backend development and a passion for creating user experiences. With a background in design, I enjoy focusing on quality and user-centric solutions.
 
 ---
 
-[//]: # (### 2️⃣ Skills & Technologies)
 ### 🛠️ Skills & Technologies
-**Front-End**: HTML5, CSS3, JavaScript, React, SASS, Bootstrap, Bulma, MaterialUI, Tailwind CSS  
-**Back-End**: Java, Spring, Hibernate, Maven, Thymeleaf  
-**Database**: SQL  
-**Tools**: Git, Homebrew, Markdown, Postman   
-**Testing**: JUnit, Mockito
-**Deployment**: Railway, Vercel
+- **Front-End**: HTML5, CSS3, JavaScript, React, SASS, Bootstrap, Bulma, MaterialUI, Tailwind CSS  
+- **Back-End**: Java, Spring, Hibernate, Maven, Thymeleaf  
+- **Database**: SQL  
+- **Tools**: Git, Homebrew, Markdown, Postman  
+- **Testing**: JUnit, Mockito  
+- **Deployment**: Railway, Vercel
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="25" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="25" alt="CSS3" /></a>
