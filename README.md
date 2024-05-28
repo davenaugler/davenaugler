@@ -13,7 +13,7 @@ Java Full-Stack Developer
 ---
 
 ### Overview
-I have a solid foundation in backend development and a passion for creating user experiences. With a background in design, I bring a unique perspective to the development process, focusing on quality and user-centric solutions.
+I have a solid foundation in backend development and a passion for creating user experiences. With a background in design, I enjoy focusing on quality and user-centric solutions.
 
 ---
 
