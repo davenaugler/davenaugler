@@ -52,11 +52,14 @@ I have a solid foundation in backend development and a passion for creating user
 ---
 
 ### 🏗️ Notable Projects
-**Coder Packaging** - [Live Demo](https://punk-production.up.railway.app/)
-- **App**: Web application to assist CodersCampus students in their job search and career development.
+**Coder Packaging**
+
+- **App**: Web application to assist Coders Campus students in their job search and career development.
 - **Tech**: Java, Spring, Hibernate, Maven, Thymeleaf, SQL, JavaScript, Git
 - **Role**: Developer & Volunteer Product Owner
 - **Responsibilities**: Managed project development, debugged codebase, and contributed to the overall architecture and functionality of the application.
+
+**[Repository](https://github.com/CodersCampus/cp) | [Live Demo](https://punk-production.up.railway.app/)** - Repository is private to students and alumni of [Coders Campus](https://www.coderscampus.com/).
 
 ---
 
