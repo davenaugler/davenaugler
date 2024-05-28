@@ -43,7 +43,7 @@ I have a solid foundation in backend development and a passion for creating user
 <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="/assets/images/markdown-original-gray.png" width="25" alt="Markdown"/></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="25" alt="Postman" /></a>
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="25" alt="Maven" /></a>
-<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="/assets/images/mockito-original-gray.png" width="25" alt="Mockito"/></a>
+<a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="/assets/images/mockito-original-gray.png" height="25" alt="Mockito"/></a>
 <a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="/assets/images/railway-original-gray.png" width="25" alt="Railway" /></a>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="/assets/images/vercel-original-gray.png" width="25" alt="Vercel"/></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="25" alt="IntelliJ" /></a>
