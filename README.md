@@ -8,7 +8,7 @@ Java Full-Stack Developer
 -------------------------
 
 * 🌍 Based in [Boise, ID](https://maps.app.goo.gl/fKNe5UrbGLM6CM9g7)
-* ✉️ Connect with me at [davenaugler@gmail.com](mailto:davenaugler@gmail.com)
+* ✉️ Connect at [davenaugler@gmail.com](mailto:davenaugler@gmail.com)
  
 ---
 
