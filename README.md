@@ -13,16 +13,11 @@ Java Full-Stack Developer
 ---
 
 ### Overview
-I am a Java Full-Stack Developer with a solid foundation in backend development and a passion for creating user experiences. With a background in design, I bring a unique perspective to the development process, focusing on quality and user-centric solutions.
+I have a solid foundation in backend development and a passion for creating user experiences. With a background in design, I bring a unique perspective to the development process, focusing on quality and user-centric solutions.
 
 ---
 
 ### Skills & Technologies
-
-<div>
-
-</div>
-
 **Front-End**: HTML5, CSS3, JavaScript, React, SASS, Bootstrap, Bulma, MaterialUI, Tailwind CSS  
 **Back-End**: Java, Spring, Hibernate, Maven, Thymeleaf  
 **Database**: SQL  
