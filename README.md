@@ -7,7 +7,7 @@ Dave Naugler
 Java Full-Stack Developer
 -------------------------
 
-* 🌍 Based in [Boise, ID](https://maps.app.goo.gl/fKNe5UrbGLM6CM9g7)
+* 🌍 Based in [Boise, Idaho](https://maps.app.goo.gl/fKNe5UrbGLM6CM9g7)
 * ✉️ Connect at [davenaugler@gmail.com](mailto:davenaugler@gmail.com)
  
 ---
