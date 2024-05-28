@@ -19,15 +19,12 @@ Java Full-Stack Developer
 
 [//]: # (</div>)
 
-<h3 style="display: flex; align-items: center;">
-  <img src="/assets/images/number-one.png" width="15" alt="Number 1 Icon made by Pixel perfect from www.flaticon.com" style="margin-right: 5px;"/>
-  Overview
-</h3>
+### 1️⃣ Overview
 I have a solid foundation in backend development and a passion for creating user experiences. With a background in design, I enjoy focusing on quality and user-centric solutions.
 
 ---
 
-### Skills & Technologies
+### 2️⃣ Skills & Technologies
 **Front-End**: HTML5, CSS3, JavaScript, React, SASS, Bootstrap, Bulma, MaterialUI, Tailwind CSS  
 **Back-End**: Java, Spring, Hibernate, Maven, Thymeleaf  
 **Database**: SQL  
@@ -58,7 +55,7 @@ I have a solid foundation in backend development and a passion for creating user
 <a href="https://www.jetbrains.com/datagrip/?var=light" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="25" alt="DataGrip" /></a>
 ---
 
-### Notable Projects
+### 3️⃣ Notable Projects
 **coder packaging** - [Live Demo](https://punk-production.up.railway.app/)
 - **App**: Assist CodersCampus students find employment
 - **Tech**: Java, Spring, Hibernate, Maven, SQL, JavaScript
