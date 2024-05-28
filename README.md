@@ -52,11 +52,11 @@ I have a solid foundation in backend development and a passion for creating user
 ---
 
 ### 🏗️ Notable Projects
-**coder packaging** - [Live Demo](https://punk-production.up.railway.app/)
-- **App**: Assist CodersCampus students find employment
-  - **Tech**: Java, Spring, Hibernate, Maven, Thymeleaf, SQL, JavaScript
+**Coder Packaging** - [Live Demo](https://punk-production.up.railway.app/)
+- **App**: Web application to assist CodersCampus students in their job search and career development.
+- **Tech**: Java, Spring, Hibernate, Maven, Thymeleaf, SQL, JavaScript, Git
 - **Role**: Developer & Volunteer Product Owner
-  - **Responsibilities**: Led project planning, coordinated development tasks, regularly debugged codebase, and contributed to the core foundation of the application.
+- **Responsibilities**: Managed project development, debugged codebase, and contributed to the overall architecture and functionality of the application.
 
 ---
 
