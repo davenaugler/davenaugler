@@ -73,7 +73,7 @@ I have a solid foundation in backend development and a passion for creating user
 
 [//]: # (</div>)
 
-<div style="text-align: center;">
+<div text-align="center">
   <a href="https://www.linkedin.com/in/davenaugler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/davenaugler" target="_blank" rel="noreferrer"><img src="/assets/images/hashnode_icon.png" width="22" alt="Hashnode"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.github.com/davenaugler" target="_blank" rel="noreferrer"><img src="/assets/images/github-original-gray.png" width="22" alt="GitHub"/></a>
