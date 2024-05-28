@@ -63,31 +63,30 @@ I have a solid foundation in backend development and a passion for creating user
 
 ---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/davenaugler" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
- ·
-  <a href="https://twitter.com/DaveNaugler" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter"></a>&nbsp;&nbsp;&nbsp;
- ·
-  <a href="https://github.com/davenaugler" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="GitHub"></a>
+[//]: # (<div>)
+
+[//]: # (<a href="https://www.linkedin.com/in/davenaugler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;)
+
+[//]: # (<a href="https://github.com/davenaugler" target="_blank" rel="noreferrer"><img src="/assets/images/hashnode_icon.png" alt="Hashnode"></a>&nbsp;&nbsp;&nbsp;)
+
+[//]: # (<a href="https://www.github.com/davenaugler" target="_blank" rel="noreferrer"><img src="/assets/images/github-original-gray.png" width="22" alt="GitHub"/></a>)
+
+[//]: # (</div>)
+
+<div style="text-align: center;">
+  <a href="https://www.linkedin.com/in/davenaugler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/davenaugler" target="_blank" rel="noreferrer"><img src="/assets/images/hashnode_icon.png" width="22" alt="Hashnode"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.github.com/davenaugler" target="_blank" rel="noreferrer"><img src="/assets/images/github-original-gray.png" width="22" alt="GitHub"/></a>
 </div>
 
-<a href="https://www.linkedin.com/in/davenaugler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="22" alt="LinkedIn" /></a>
-<a href="https://www.github.com/davenaugler" target="_blank" rel="noreferrer"><img src="/assets/images/github-original-gray.png" width="22" alt="GitHub"/></a>  RGB:
-
-rgba(42,98,255,255)
 
 
 
 
-<a href="https://github.com/davenaugler" target="_blank" rel="noreferrer">
-<svg xmlns="http://www.w3.org/2000/svg" width="22"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#2a62ff" d="M35.2 171.1C-11.7 217.1-11.7 294 35.2 340.9L171.1 476.8C217.1 523.7 294 523.7 340.9 476.8L476.8 340.9C523.7 294 523.7 217.1 476.8 171.1L340.9 35.2C294-11.7 217.1-11.7 171.1 35.2L35.2 171.1zM315.5 315.5C282.6 348.3 229.4 348.3 196.6 315.5C163.7 282.6 163.7 229.4 196.6 196.6C229.4 163.7 282.6 163.7 315.5 196.6C348.3 229.4 348.3 282.6 315.5 315.5z"/></svg>
-
-<img src="" width="22" alt="Hashnode"></a>
 
 
-<a href="https://github.com/davenaugler" target="_blank" rel="noreferrer">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="22" alt="Hashnode"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#2a62ff" d="M35.2 171.1C-11.7 217.1-11.7 294 35.2 340.9L171.1 476.8C217.1 523.7 294 523.7 340.9 476.8L476.8 340.9C523.7 294 523.7 217.1 476.8 171.1L340.9 35.2C294-11.7 217.1-11.7 171.1 35.2L35.2 171.1zM315.5 315.5C282.6 348.3 229.4 348.3 196.6 315.5C163.7 282.6 163.7 229.4 196.6 196.6C229.4 163.7 282.6 163.7 315.5 196.6C348.3 229.4 348.3 282.6 315.5 315.5z"/></svg>
-</a>
+
+
 
 
 
