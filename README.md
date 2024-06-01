@@ -56,7 +56,7 @@ I have a solid understanding of OOP backend development and enjoy creating clean
 - **Tech**: Java, Spring, Hibernate, Maven, Thymeleaf, SQL, JavaScript, Git
 - **Role**: Volunteer Product Owner & Developer
 - **Responsibilities**: Managed project development, debugged codebase, and contributed to the overall architecture and functionality of the application.
-- **Agile Implementation**: Implemented Scrum framework to optimize team collaboration, adaptability, and delivery of high-quality increments throughout the project lifecycle.
+- **Agile Implementation**: Implemented [Scrum](https://scrumguides.org/scrum-guide.html) framework to optimize team collaboration, adaptability, and delivery of high-quality increments throughout the project lifecycle.
 
 **[Repository](https://github.com/CodersCampus/cp) | [Live Demo](https://punk-production.up.railway.app/)** - _Repository is `private` for students and alumni of [Coders Campus](https://www.coderscampus.com/)_.
 
