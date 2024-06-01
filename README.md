@@ -13,7 +13,7 @@ Java Full-Stack Developer
 ---
 
 ### 🚀 Overview
-I have a solid foundation in backend development and a passion for creating user experiences. With a background in design, I enjoy focusing on quality and user-centric solutions.
+I have a solid understanding of OOP backend development and enjoy creating clean user experiences. With a background in design, I focus on simple and enjoyable user solutions.
 
 ---
 
@@ -52,10 +52,11 @@ I have a solid foundation in backend development and a passion for creating user
 ### 🏗️ Notable Projects
 **Coder Packaging**
 
-- **App**: Web application to assist Coders Campus students in their job search and career development.
+- **App**: Web app designed to showcase the skills and abilities of [Coders Campus](https://www.coderscampus.com/) students
 - **Tech**: Java, Spring, Hibernate, Maven, Thymeleaf, SQL, JavaScript, Git
-- **Role**: Developer & Volunteer Product Owner
+- **Role**: Volunteer Product Owner & Developer
 - **Responsibilities**: Managed project development, debugged codebase, and contributed to the overall architecture and functionality of the application.
+- **Agile Implementation**: Implemented Scrum framework to optimize team collaboration, adaptability, and delivery of high-quality increments throughout the project lifecycle.
 
 **[Repository](https://github.com/CodersCampus/cp) | [Live Demo](https://punk-production.up.railway.app/)** - _Repository is `private` for students and alumni of [Coders Campus](https://www.coderscampus.com/)_.
 
