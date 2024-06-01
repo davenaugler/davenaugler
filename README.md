@@ -96,7 +96,7 @@ I have a solid understanding of OOP backend development and enjoy creating clean
 
 
 
-
+Design professional, turn Full Stack Java Developer. Enjoying the build process and improving quality over quantity.
 
 
 
